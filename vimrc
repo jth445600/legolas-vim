@@ -37,7 +37,7 @@ Plug 'vim-airline/vim-airline-themes'
 
 " enhance za
 Plug 'tmhedberg/SimpylFold'
-
+Plug 'Raimondi/delimitMate'
 " super search
 Plug 'kien/ctrlp.vim'
 
